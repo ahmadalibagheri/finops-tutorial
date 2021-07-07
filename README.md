@@ -1,14 +1,7 @@
-# jenkins-tutorial
-
-![Visits Badge](https://badges.pufler.dev/visits/ssbostan/jenkins-tutorial)
-![GitHub last commit](https://img.shields.io/github/last-commit/ssbostan/jenkins-tutorial)
-[![GitHub license](https://img.shields.io/github/license/ssbostan/jenkins-tutorial)](https://github.com/ssbostan/jenkins-tutorial/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ssbostan/jenkins-tutorial)](https://github.com/ssbostan/jenkins-tutorial/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ssbostan/jenkins-tutorial)](https://github.com/ssbostan/jenkins-tutorial/network)
-[![GitHub issues](https://img.shields.io/github/issues/ssbostan/jenkins-tutorial)](https://github.com/ssbostan/jenkins-tutorial/issues)
+# FinOps-tutorial
 
 <p align="center">
- <img alt="Jenkins Logo" src="https://www.jenkins.io/images/logo-title-opengraph.png">
+ <img alt="FinOps Logo" src="https://miro.medium.com/max/1400/0*VI4SttGborxLNEpO.png">
 </p>
 
 <p align="center">
