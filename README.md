@@ -34,5 +34,3 @@ If you find any **bugs** in the examples, please file an issue.
  - [ ] Adding FinOps Terraform integration tutorial
  - [ ] Adding FinOps Ansible integration tutorial
  - [ ] Addind FinOps JCasC (Configuration as Code) tutorial
- - [ ] Adding FinOps Prometheus monitoring tutorial
- - [ ] Adding FinOps Notification plugins tutorial
