@@ -32,5 +32,3 @@ If you find any **bugs** in the examples, please file an issue.
  - [ ] Adding FinOps Docker integration tutorial
  - [ ] Adding FinOps Kubernetes, OpenShift integration tutorial
  - [ ] Adding FinOps Terraform integration tutorial
- - [ ] Adding FinOps Ansible integration tutorial
- - [ ] Addind FinOps JCasC (Configuration as Code) tutorial
