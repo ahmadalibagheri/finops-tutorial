@@ -30,5 +30,3 @@ If you find any **bugs** in the examples, please file an issue.
  - [ ] Adding FinOps Git and GitHub integration tutorial
  - [ ] Adding FinOps JUnit, Cobertura, and testing tutorial
  - [ ] Adding FinOps Docker integration tutorial
- - [ ] Adding FinOps Kubernetes, OpenShift integration tutorial
- - [ ] Adding FinOps Terraform integration tutorial
