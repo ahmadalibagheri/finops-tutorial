@@ -7,9 +7,9 @@
 
 ## Published articles:
 
- - [FinOps Tutorial - Part 1 - Pipelines Introduction](https://itnext.io/FinOps-tutorial-part-1-pipelines-bd1397cf5509)
+ - [FinOps Tutorial - Part 1 - AWS ASG scheduleder]() InProgress
 
- - [FinOps Tutorial - Part 2 - Pipeline Variables](https://itnext.io/FinOps-tutorial-part-2-pipeline-variables-5e4783aa2c07)
+ - [FinOps Tutorial - Part 2 - AWS Instance Type]() InProgress
 
 
 ## Contributions:
@@ -20,9 +20,6 @@ If you find any **bugs** in the examples, please file an issue.
 
 ### TODO:
 
- - [ ] Adding FinOps pipeline basic concepts tutorial
- - [ ] Adding FinOps essential pipeline commands tutorial
- - [ ] Adding FinOps groovy language tutorial
- - [ ] Adding FinOps Git and GitHub integration tutorial
- - [ ] Adding FinOps JUnit, Cobertura, and testing tutorial
- - [ ] Adding FinOps Docker integration tutorial
+ - [ ] Adding FinOps Hidden coste
+ - [ ] Adding FinOps Using customize serivces
+
