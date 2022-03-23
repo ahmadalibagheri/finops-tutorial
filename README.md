@@ -1,7 +1,7 @@
 # FinOps-tutorial
 
 <p align="center">
- <img alt="FinOps Logo" src="https://miro.medium.com/max/1400/0*VI4SttGborxLNEpO.png">
+ <img alt="FinOps Logo" src="image/finops.png">
 </p>
 
 <p align="center">
