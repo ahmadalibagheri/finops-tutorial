@@ -4,10 +4,6 @@
  <img alt="FinOps Logo" src="image/finops.png">
 </p>
 
-<p align="center">
- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/b9t_ir?style=social">
- <img alt="LinkedIn Follow" src="https://shields.io/badge/style-ssbostan-black?logo=linkedin&label=LinkedIn&link=https://www.linkedin.com/in/ssbostan">
-</p>
 
 ## Published articles:
 
