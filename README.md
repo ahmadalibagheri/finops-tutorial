@@ -7,7 +7,7 @@
 
 ## Published articles:
 
- - [FinOps Tutorial - Part 1 - AWS NON Office time](https://medium.com/@ahmadalibagheri2010/finops-part-1-non-office-time-c9ccce5dab8)
+ - [FinOps Tutorial - Part 1 - AWS Non Office time](https://medium.com/@ahmadalibagheri2010/finops-part-1-non-office-time-c9ccce5dab8)
 
  - [FinOps Tutorial - Part 2 - AWS Instance Type]() InProgress
 
