@@ -11,6 +11,7 @@
 
  - [FinOps Tutorial - Part 2 - AWS Instance Type]() InProgress
 
+ - [FinOps Tutorial - Part 3 - AWS Spot and On Demand]() InProgress
 
 ## Contributions:
 
