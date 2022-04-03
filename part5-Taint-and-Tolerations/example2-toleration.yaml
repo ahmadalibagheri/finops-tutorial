@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: noschedule-deployment
+spec:
+  replicas: 1
+  selector:
+    matchExpressions:
+    - key: name
+      operator: In
+      values:
+      - nginx
+  template:
+    metadata:
+      labels:
+        name: nginx
+    spec:
+      containers:
+      - name: nginx-container
+        image: nginx
+        ports:
+        - containerPort: 80
+      tolerations:
+      - key: size
+        operator: "Equal"
+        value: large
+        effect: NoSchedule
