@@ -18,7 +18,7 @@ first you need to taint a node and then you can do toleration to corresponding p
 taint are for the nodes and toleration is for pods 
 
 for example to add a taint to a node:
-نر
+
 
 ` kubectl taint node <Node_Name> <key=value:TAINT_EFFECT> `
 
