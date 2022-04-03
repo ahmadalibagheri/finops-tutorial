@@ -27,5 +27,3 @@ first you need to have a csv file to write all the resource and usage.
 Now you can find out which resource has chosen correctly and decide to change it or not! 
 you can find all the information about the resources in your monitoring application. 
 
-
-
