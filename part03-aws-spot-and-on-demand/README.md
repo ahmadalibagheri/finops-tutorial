@@ -56,9 +56,7 @@ resource "aws_spot_instance_request" "cheap_worker" {
     Name = "CheapWorker"
   }
 }
-
 ```
-
 
 When we are talking about spot_price it means the maximum price to request on spot market .
 
