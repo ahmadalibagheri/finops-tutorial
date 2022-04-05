@@ -9,7 +9,7 @@
 
  - [FinOps Tutorial - Part 1 - AWS Non Office time](https://medium.com/@ahmadalibagheri2010/finops-part-1-non-office-time-c9ccce5dab8)
 
- - [FinOps Tutorial - Part 2 - AWS Instance Type]() InProgress
+ - [FinOps Tutorial - Part 2 - AWS Instance Type](https://medium.com/@ahmadali-bagheri/finops-part-2-aws-instance-type-3b77a2e146b0)
 
  - [FinOps Tutorial - Part 3 - AWS Spot and On Demand]() InProgress
 
