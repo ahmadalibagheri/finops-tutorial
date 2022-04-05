@@ -11,7 +11,11 @@
 
  - [FinOps Tutorial - Part 2 - AWS Instance Type](https://medium.com/@ahmadali-bagheri/finops-part-2-aws-instance-type-3b77a2e146b0)
 
- - [FinOps Tutorial - Part 3 - AWS Spot and On Demand]() InProgress
+ - [FinOps Tutorial - Part 3 - AWS Spot and On-Demand]() InProgress
+
+ - [FinOps Tutorial - Part 4 - Opmitize Infrastructure]() InProgress
+
+ - [FinOps Tutorial - Part 5 - Kubernetes Taint and Tolerations]() InProgress
 
 ## Contributions:
 
